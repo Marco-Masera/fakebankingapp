@@ -1,0 +1,36 @@
+{
+	"Conti":[
+		{
+			"nomeConto": "Conto 1",
+			"iban": "2019342943858dsjf348",
+			"saldo": {
+				"Euro": 12523,
+				"Centesimi": 8
+			},
+			"id": 0
+		},
+		{
+			"nomeConto": "Conto 2",
+			"iban": "345345nfIT849343",
+			"saldo": {
+				"Euro": 8005,
+				"Centesimi": 34
+			},
+			"id": 1
+		},
+		{
+			"nomeConto": "Conto 3",
+			"iban": "345345345435645646",
+			"saldo": {
+				"Euro": 39123,
+				"Centesimi": 89
+			},
+			"id": 2
+		}
+	],
+	"MovimentiConto": {
+		"0": [
+			{"data": "11/12/2019", "importoEuro": 32, "importoCent": 12, "causale": "Spesa"}
+		]
+	}
+}
