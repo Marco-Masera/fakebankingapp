@@ -28,9 +28,10 @@
 			"id": 2
 		}
 	],
-	"MovimentiConto": {
-		"id0": [
+	"MovimentiConto": [
+		[
+			{"data": "11/12/2019", "importoEuro": 32, "importoCent": 12, "causale": "Spesa"},
 			{"data": "11/12/2019", "importoEuro": 32, "importoCent": 12, "causale": "Spesa"}
 		]
-	}
+	]
 }
